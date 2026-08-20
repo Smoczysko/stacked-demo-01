@@ -1,1 +1,1 @@
-# stacked-demo-01
+# Stacked demo repo

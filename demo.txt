@@ -2,5 +2,4 @@ Here is the phase 2 content.
 
 No merge work done in main yet.
 
-Now lets work on merges.
-
+Now lets work on merges. And now lets finish.
